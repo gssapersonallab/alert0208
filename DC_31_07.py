@@ -343,7 +343,7 @@ def main():
                         human_date = humanize_date(s_date)
 
                         msg = (
-                            f"[{newly_unblocked_count} SEATS ]"
+                            f"PL ALLU CINEMAS {newly_unblocked_count} SEATS  \n"
                             f"{rows_str} rows unblocked for Spiderman Brand new day at Allu Cinemas .\n\n"
                             f"{human_date}, {s_time}"
                         )
