@@ -1,4 +1,4 @@
-name: new scraper
+name: DC_0208
 
 on:
   workflow_dispatch:
