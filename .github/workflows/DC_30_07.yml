@@ -1,4 +1,4 @@
-name: 31_07_2026
+name: 31-07-2026
 
 on:
   workflow_dispatch:
