@@ -1,4 +1,4 @@
-name: newDC30
+name: 31_07_2026
 
 on:
   workflow_dispatch:
